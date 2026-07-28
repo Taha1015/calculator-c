@@ -2,6 +2,10 @@
 
 A simple menu-driven calculator built using the C programming language.
 
+## 📷 Screenshot
+
+![Calculator](Calculator.png)
+
 ## 📌 Features
 
 - Addition
